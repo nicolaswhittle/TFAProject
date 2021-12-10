@@ -6,7 +6,7 @@
 ### **Yea Hyung Lee (yl4881)**
 ### **Nicolas Whittle (naw2135)**
 
-yl4881
+yl4881 \n
 naw2135
 
 Atteched you will find two notebooks containing two different tasks regarding 311 calls in New York for the year 2020.
