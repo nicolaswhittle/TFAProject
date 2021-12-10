@@ -1,7 +1,7 @@
 # Tools For Analytics
 ## Call Analysis Project
 
-### Section 2 (Tuesdays)
+##### Section 2 (Tuesdays)
 
 ### **Yea Hyung Lee (yl4881)**
 ### **Nicolas Whittle (naw2135)**
