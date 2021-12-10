@@ -1,8 +1,8 @@
-#Tools For Analytics
-##Call Analysis Project
+# Tools For Analytics
+## Call Analysis Project
 
-###**Yea Hyung Lee (yl4881)**
-###**Nicolas Whittle (naw2135)**
+### **Yea Hyung Lee (yl4881)**
+### **Nicolas Whittle (naw2135)**
 
 Atteched you will find two notebooks containing two different tasks regarding 311 calls in New York for the year 2020.
 
